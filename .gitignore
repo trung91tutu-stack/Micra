@@ -1,0 +1,14 @@
+# KHOA API - TUYET DOI KHONG DUA LEN
+.env
+.env.local
+.streamlit/secrets.toml
+
+# rac cua Python
+__pycache__/
+*.pyc
+.venv/
+
+# ket qua chay - sinh lai duoc
+outputs/*.png
+outputs/*.txt
+bang_chung/
